@@ -1,0 +1,7 @@
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Programozas_01_Labor\bin\Debug\Programozas_01_Labor.exe.config
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Programozas_01_Labor\bin\Debug\Programozas_01_Labor.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Programozas_01_Labor\bin\Debug\Programozas_01_Labor.pdb
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Programozas_01_Labor\obj\Debug\AnimalHospitalApp.csprojAssemblyReference.cache
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Programozas_01_Labor\obj\Debug\AnimalHospitalApp.csproj.CoreCompileInputs.cache
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Programozas_01_Labor\obj\Debug\Programozas_01_Labor.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Programozas_01_Labor\obj\Debug\Programozas_01_Labor.pdb

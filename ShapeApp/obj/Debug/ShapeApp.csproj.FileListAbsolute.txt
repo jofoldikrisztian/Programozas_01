@@ -1,0 +1,7 @@
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\ShapeApp\bin\Debug\ShapeApp.exe.config
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\ShapeApp\bin\Debug\ShapeApp.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\ShapeApp\bin\Debug\ShapeApp.pdb
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\ShapeApp\obj\Debug\ShapeApp.csproj.CoreCompileInputs.cache
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\ShapeApp\obj\Debug\ShapeApp.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\ShapeApp\obj\Debug\ShapeApp.pdb
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\ShapeApp\obj\Debug\ShapeApp.csprojAssemblyReference.cache

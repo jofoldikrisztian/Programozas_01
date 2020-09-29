@@ -1,0 +1,7 @@
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Teszt\bin\Debug\Teszt.exe.config
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Teszt\bin\Debug\Teszt.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Teszt\bin\Debug\Teszt.pdb
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Teszt\obj\Debug\Teszt.csprojAssemblyReference.cache
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Teszt\obj\Debug\Teszt.csproj.CoreCompileInputs.cache
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Teszt\obj\Debug\Teszt.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\Teszt\obj\Debug\Teszt.pdb
