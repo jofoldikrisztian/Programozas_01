@@ -11,10 +11,18 @@ namespace Teszt
         static void Main(string[] args)
         {
 
-            Animal tyuk = new Dog();
+            List<Animal> tyuk = new List<Animal>()
+            {
+                new Dog(),
+                new horse()
+            };
+
+            foreach (var animal in tyuk)
+            {
+                animal.doSomething();
+            }
 
 
-            tyuk.doSomething();
 
             Console.ReadKey();
         }

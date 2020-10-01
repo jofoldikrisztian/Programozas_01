@@ -1,0 +1,7 @@
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\UserApp\bin\Debug\UserApp.exe.config
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\UserApp\bin\Debug\UserApp.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\UserApp\bin\Debug\UserApp.pdb
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\UserApp\obj\Debug\UserApp.csprojAssemblyReference.cache
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\UserApp\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\UserApp\obj\Debug\UserApp.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\UserApp\obj\Debug\UserApp.pdb

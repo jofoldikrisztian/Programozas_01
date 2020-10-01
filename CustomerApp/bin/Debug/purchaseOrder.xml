@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<purchaseOrders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PurchaseOrder>
+    <shipTo name="William A. Klein">
+      <street>2231 Huntz Lane</street>
+      <city>Cambridge</city>
+      <state>Massachusetts(MA)</state>
+      <zip>02141</zip>
+    </shipTo>
+    <orderDate>2020. október 1., csütörtök</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>shovel</itemName>
+        <unitPrice>40.29</unitPrice>
+        <quantity>1</quantity>
+        <lineTotal>40.29</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>ballon</itemName>
+        <unitPrice>42.11</unitPrice>
+        <quantity>100</quantity>
+        <lineTotal>4211.00</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>cup</itemName>
+        <unitPrice>35.12</unitPrice>
+        <quantity>10</quantity>
+        <lineTotal>351.20</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>4602.49</subTotal>
+    <shipCost>12.5</shipCost>
+    <totalCost>4614.99</totalCost>
+  </PurchaseOrder>
+  <PurchaseOrder>
+    <shipTo name="William A. Klein">
+      <street>2231 Huntz Lane</street>
+      <city>Cambridge</city>
+      <state>Massachusetts(MA)</state>
+      <zip>02141</zip>
+    </shipTo>
+    <orderDate>2020. október 1., csütörtök</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>shovel</itemName>
+        <unitPrice>40.29</unitPrice>
+        <quantity>1</quantity>
+        <lineTotal>40.29</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>lamp shade</itemName>
+        <unitPrice>12.1</unitPrice>
+        <quantity>3</quantity>
+        <lineTotal>36.3</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>lamp shade</itemName>
+        <unitPrice>12.1</unitPrice>
+        <quantity>3</quantity>
+        <lineTotal>36.3</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>shovel</itemName>
+        <unitPrice>40.29</unitPrice>
+        <quantity>1</quantity>
+        <lineTotal>40.29</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>shovel</itemName>
+        <unitPrice>40.29</unitPrice>
+        <quantity>1</quantity>
+        <lineTotal>40.29</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>193.47</subTotal>
+    <shipCost>12.5</shipCost>
+    <totalCost>205.97</totalCost>
+  </PurchaseOrder>
+  <PurchaseOrder>
+    <shipTo name="Richard J. McCarty">
+      <street>2025 Heavner Court</street>
+      <city>Humboldt</city>
+      <state>Iowa(IA)</state>
+      <zip>50548</zip>
+    </shipTo>
+    <orderDate>2020. október 1., csütörtök</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>cup</itemName>
+        <unitPrice>35.12</unitPrice>
+        <quantity>10</quantity>
+        <lineTotal>351.20</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>shovel</itemName>
+        <unitPrice>40.29</unitPrice>
+        <quantity>1</quantity>
+        <lineTotal>40.29</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>391.49</subTotal>
+    <shipCost>12.5</shipCost>
+    <totalCost>403.99</totalCost>
+  </PurchaseOrder>
+  <PurchaseOrder>
+    <shipTo name="Marsha B. Victoria">
+      <street>2662 Collins Avenue</street>
+      <city>Westerville</city>
+      <state>Ohio(OH)</state>
+      <zip>43081</zip>
+    </shipTo>
+    <orderDate>2020. október 1., csütörtök</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>ballon</itemName>
+        <unitPrice>42.11</unitPrice>
+        <quantity>100</quantity>
+        <lineTotal>4211.00</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>ballon</itemName>
+        <unitPrice>42.11</unitPrice>
+        <quantity>100</quantity>
+        <lineTotal>4211.00</lineTotal>
+      </OrderedItem>
+      <OrderedItem>
+        <itemName>cup</itemName>
+        <unitPrice>35.12</unitPrice>
+        <quantity>10</quantity>
+        <lineTotal>351.20</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>8773.20</subTotal>
+    <shipCost>12.5</shipCost>
+    <totalCost>8785.70</totalCost>
+  </PurchaseOrder>
+  <PurchaseOrder>
+    <shipTo name="Zulma S. Baker">
+      <street>2318 Harley Brook Lane</street>
+      <city>Johnstown</city>
+      <state>Pennsylvania(PA)</state>
+      <zip>15903</zip>
+    </shipTo>
+    <orderDate>2020. október 1., csütörtök</orderDate>
+    <items>
+      <OrderedItem>
+        <itemName>lamp shade</itemName>
+        <unitPrice>12.1</unitPrice>
+        <quantity>3</quantity>
+        <lineTotal>36.3</lineTotal>
+      </OrderedItem>
+    </items>
+    <subTotal>36.3</subTotal>
+    <shipCost>12.5</shipCost>
+    <totalCost>48.8</totalCost>
+  </PurchaseOrder>
+</purchaseOrders>

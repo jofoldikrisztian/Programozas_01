@@ -1,0 +1,7 @@
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\DebugInfoApp\obj\Debug\DebugInfoApp.csprojAssemblyReference.cache
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\DebugInfoApp\obj\Debug\DebugInfoApp.csproj.CoreCompileInputs.cache
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\DebugInfoApp\bin\Debug\DebugInfoApp.exe.config
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\DebugInfoApp\bin\Debug\DebugInfoApp.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\DebugInfoApp\bin\Debug\DebugInfoApp.pdb
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\DebugInfoApp\obj\Debug\DebugInfoApp.exe
+D:\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\Excercise\Programozas_01_Labor\DebugInfoApp\obj\Debug\DebugInfoApp.pdb
